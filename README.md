@@ -1,0 +1,2 @@
+# ohenry
+Simple Java Inheritance
